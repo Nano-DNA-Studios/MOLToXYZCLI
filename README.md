@@ -9,7 +9,7 @@ This project can also be found through GitHub [MOLToXYZCLI](https://github.com/N
 ## Installation
 Install the Tool using the following command
 ```
-dotnet tool install --global MOLToXYZCLI --version 1.0.0
+dotnet tool install --global MOLToXYZCLI
 ```
 
 
